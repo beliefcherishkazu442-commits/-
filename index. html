@@ -11,13 +11,13 @@
             padding-top: 50px;
         }
         h1 {
-            color: #ff4500;
+            color: blue;
             font-size: 3rem;
         }
     </style>
 </head>
 <body>
-    <h1>Hello World!</h1>
+    <h1>瑚乃の部屋へようこそ</h1>
     <p>iPadでのテスト成功！</p>
 </body>
 </html>
